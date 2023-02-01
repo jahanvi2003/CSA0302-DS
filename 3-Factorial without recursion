@@ -20,7 +20,4 @@ int main()
         printf("Factorial of Number %d = %llu", n, factorial);
     }
  
-    getch();
-}
 
-Output:
